@@ -86,7 +86,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.48</version>
+            <version>8.0.28</version>
         </dependency>
         <!--Spring 应用上下文,进行注解、xml、config加载-->
         <dependency>
